@@ -1,0 +1,8 @@
+conv1:60
+conv2:20
+conv3:10
+conv4:10
+conv5:5
+conv6:4
+fc1:4
+fc2:15
